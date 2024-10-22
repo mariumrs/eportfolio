@@ -56,16 +56,50 @@ As well as youtube course of R:
 https://www.youtube.com/watch?v=riONFzJdXcs&list=PLqzoL9-eJTNBDdKgJgJzaQcY6OXmsXAHU
 
 #### Unit 5 
-Learned Objectives : 
-- 
+Learned Objectives: 
 
-#### Unit 6 - 7 
+- Understanding the process of EDA
+- Working with code for regressions and understanding different tests that we can run on data 
 
-#### Unit 8 - 10
+During the seminar of the project important concepts were grasped to help understand the goals for visualizations
 
-#### Unit 11
+<img src="https://github.com/user-attachments/assets/b74d4f5e-dc52-4672-b586-969062be14b9" width="300" alt="Data Sci - nov 1-48">
+<img src="https://github.com/user-attachments/assets/1641ea73-b020-4f63-ba70-ec511beb8488" width="300" alt="Data Sci - nov 1-33">
+
+#### Unit 9 - 10 - 11
+
+Learned Objectives 
+
+- Designing Dashboard
+- Understanding the effeciency of creating dashboard
+- Storytelling with data
+
+### Introduction 
+During the course of these weeks I had a perspective shift when i looked at data I started noticing how a lot of different aspects of data not just a numbers one can be visualized to display trends. I tried to go a through an un traditional route to by choosing a Dataset involving reviews. 
+
+### understanding Tableau 
+I was able to operate tableau by running Covid 19 Statistics and deriving visualizations for practice: 
+
+### Opportunities and key practices 
+Despite exploring tableau I opted to go for dashbaord in Power BI. I managed to replicate all of the vsiualizations in Tablaeu as well and look forward to further exploring it. 
+
+Moreover, in order to manage my time more effeciently I plan to follow Parkinsons Law which states: 
+- setting deadlines
+- breaking tasks down into smaller achievable goals
+- setting time limit for tasks
+- prioritizing tasks based on urgency
+
+To manage my workload I have implemented the parkinsons law to ensure all my work is done in a manner that allows me to manage my workload effectively.
+
 
 #### Unit 12
+Learned objectives 
+
+- Self reflection
+- Understanding fundamental role virtual reality can play when it comes to Data visualization was able to run a demo to understand the impact
+
+<img width="870" alt="image" src="https://github.com/user-attachments/assets/7eb862d1-4939-4dc2-8033-6d24803f9642">
+
 
 
 
