@@ -80,6 +80,10 @@ During the course of these weeks I had a perspective shift when i looked at data
 ### understanding Tableau 
 I was able to operate tableau by running Covid 19 Statistics and deriving visualizations for practice: 
 
+![Dashboard 1](https://github.com/user-attachments/assets/d6a1731c-76b2-4f05-a17a-16055c487ada)
+
+- I was able to derive the data based on google analytics by using search trend across UAE as the data had been significantly lacking and not available as open source 
+  
 ### Opportunities and key practices 
 Despite exploring tableau I opted to go for dashbaord in Power BI. I managed to replicate all of the vsiualizations in Tablaeu as well and look forward to further exploring it. 
 
