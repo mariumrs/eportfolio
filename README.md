@@ -1,5 +1,5 @@
 # E - Portfolio
-### About me 
+## About me 
 Im a Masters student pursuing Data science based in UAE 
 
 
@@ -74,17 +74,17 @@ Learned Objectives
 - Understanding the effeciency of creating dashboard
 - Storytelling with data
 
-### Introduction 
+##### Introduction 
 During the course of these weeks I had a perspective shift when i looked at data I started noticing how a lot of different aspects of data not just a numbers one can be visualized to display trends. I tried to go a through an un traditional route to by choosing a Dataset involving reviews. 
 
-### understanding Tableau 
+##### Understanding Tableau 
 I was able to operate tableau by running Covid 19 Statistics and deriving visualizations for practice: 
 
 ![Dashboard 1](https://github.com/user-attachments/assets/d6a1731c-76b2-4f05-a17a-16055c487ada)
 
 - I was able to derive the data based on google analytics by using search trend across UAE as the data had been significantly lacking and not available as open source 
   
-### Opportunities and key practices 
+##### Opportunities and key practices 
 Despite exploring tableau I opted to go for dashbaord in Power BI. I managed to replicate all of the vsiualizations in Tablaeu as well and look forward to further exploring it. 
 
 Moreover, in order to manage my time more effeciently I plan to follow Parkinsons Law which states: 
@@ -95,13 +95,13 @@ Moreover, in order to manage my time more effeciently I plan to follow Parkinson
 
 To manage my workload I have implemented the parkinsons law to ensure all my work is done in a manner that allows me to manage my workload effectively.
 
-
 #### Unit 12
 Learned objectives 
 
 - Self reflection
 - Understanding fundamental role virtual reality can play when it comes to Data visualization was able to run a demo to understand the impact
 
+  One of the samples I went through was virtually seeing the amount varying and visualizing it in a 3D format to gain a larger perspective 
 <img width="870" alt="image" src="https://github.com/user-attachments/assets/7eb862d1-4939-4dc2-8033-6d24803f9642">
 
 
